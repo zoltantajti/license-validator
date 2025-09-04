@@ -21,6 +21,9 @@ require __DIR__ . '/vendor/autoload.php';
 
 use zoltantajti\LicenseValidator\Validator;
 
+// Set your language.
+Validator::setLanguage('hu') //Currently support hu and en. default = "hu"
+
 // Set the absolute path to your license.php file
 Validator::setLicensePath(__DIR__ . '/path/to/your/license.php');
 
