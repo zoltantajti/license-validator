@@ -1,6 +1,6 @@
 {
     "name": "zoltantajti/license-validator",
-    "description": "A simple, remote license validation package for any PHP project.",
+    "description": "Proprietary license validator for the Tajti Software ecosystem. Not for public use.",
     "type": "library",
     "license": "Unlicense",
     "authors": [
