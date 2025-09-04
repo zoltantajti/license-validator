@@ -2,7 +2,7 @@
     "name": "zoltantajti/license-validator",
     "description": "A simple, remote license validation package for any PHP project.",
     "type": "library",
-    "license": "MIT",
+    "license": "Proprietary",
     "authors": [
         {
             "name": "Zoltán Tajti",
