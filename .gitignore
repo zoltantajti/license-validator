@@ -1,0 +1,7 @@
+/__orig
+/vendor
+test.php
+license.php
+composer.lock
+.DS_Store
+Thumbs.db

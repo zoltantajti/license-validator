@@ -1,0 +1,21 @@
+{
+    "name": "zoltantajti/license-validator",
+    "description": "A simple, remote license validation package for any PHP project.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zoltán Tajti",
+            "email": "info@tajtizoltan.hu"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zoltantajti\\LicenseValidator\\": "src/"
+        }
+    }
+}
